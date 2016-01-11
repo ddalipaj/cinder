@@ -1,0 +1,19 @@
+{
+  "Launchpad": "https://bugs.launchpad.net/bugs/1505488",
+  "Id": "1505488",
+  "Gerrit": "https://review.openstack.org/233923",
+  "IdGerrit": "233923",
+  "IdCommit": "9a7cbe540c94d54194194f4747a52b8211f6372e",
+  "Files": [
+    "cinder/exception.py",
+    "cinder/tests/unit/test_exception.py"
+  ],
+  "Lines_Inseted": 1,
+  "Lines_Deleted": 1,
+  "CommitParent": "7fb767f2d652f070a20fd70d92585d61e56f3a50",
+  "Classification": "Not_Bug",
+  "KeywordsTitle": "use for default",
+  "Description": "consistency",
+  "KeywordsCommit": "change default code",
+  "Comments": ""
+}
