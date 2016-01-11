@@ -1,0 +1,19 @@
+{
+  "Launchpad": "https://bugs.launchpad.net/bugs/1515900",
+  "Id": "1515900",
+  "Gerrit": "https://review.openstack.org/245384",
+  "IdGerrit": "245384",
+  "IdCommit": "390ddb7ea9ca7e736a17f1ff516aee5e11961feb",
+  "Files": [
+    "cinder/backup/manager.py",
+    "cinder/tests/unit/test_backup.py"
+  ],
+  "Lines_Inseted": 2,
+  "Lines_Deleted": 2,
+  "CommitParent": "3a5fc76918ef6853322067fe059be4b2982572d8",
+  "Classification": "Not_Bug",
+  "KeywordsTitle": "driver issue",
+  "Description": "log",
+  "KeywordsCommit": "check, don't need to use, check if is initialised",
+  "Comments": ""
+}
